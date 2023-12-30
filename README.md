@@ -5,10 +5,10 @@ This work evaluates the use of multi-exit neural networks (MENNs) for private in
 
 The first part of this repository provides several MENN examples for image classification, including training and evaluation scripts.([Code](https://github.com/TrustworthyComputing/FHE-MENN/MENNs))
 
-The second part of this repository analyzes *what* user data can be extracted from the limited information provided from the user decison. ([Code](https://github.com/TrustworthyComputing/FHE-MENN/TorMENNt))
+The second part of this repository analyzes *what* user data can be extracted from the limited information provided from the user decison ([Code](https://github.com/TrustworthyComputing/FHE-MENN/tree/main/TorMENNt)).
 
 ## Cite this work
-This work was introduced in the FHE-MENN paper ([Paper](https://github.com/TrustworthyComputing/FHE-MENN/FHE-MENN.pdf)). The work can be cited as:
+This work was introduced in the FHE-MENN ([Paper](https://github.com/TrustworthyComputing/FHE-MENN/blob/main/FHEMENNs.pdf)). The work can be cited as:
 ```
 @misc{folkerts2023FheMenn,
     author       = {Lars Wolfgang Folkerts and Nektarios Georgios Tsoutsos},
