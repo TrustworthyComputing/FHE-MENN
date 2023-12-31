@@ -14,7 +14,7 @@ This work was introduced in the FHE-MENN ([Paper](https://github.com/Trustworthy
     author       = {Lars Wolfgang Folkerts and Nektarios Georgios Tsoutsos},
     title        = {{FHE-MENNs: Accelerating Fully Homomorphic Private Inference with Multi-Exit Neural Networks}},
     year         = {2023},
-    note         = {\url{https://github.com/TrustworthyComputing/FHE-MENN/FHE-MENN.pdf}},
+    note         = {\url{https://github.com/TrustworthyComputing/FHE-MENN/blob/main/FHEMENNs.pdf}},
 }
 ```
 
