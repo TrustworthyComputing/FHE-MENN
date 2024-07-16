@@ -18,3 +18,5 @@ This work was introduced in the FHE-MENN ([Paper](https://github.com/Trustworthy
 }
 ```
 
+## Acknowledgments
+This work was supported by the National Science Foundation (Award #2239334).
